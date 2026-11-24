@@ -1,0 +1,9 @@
+# Raw generated data: the checker regenerates these from generate_data.py
+/duka_sales.csv
+/agents.csv
+/agent_transactions.csv
+
+# Notebook checkpoints, Python cache and the virtual environment
+.ipynb_checkpoints/
+__pycache__/
+.venv/
